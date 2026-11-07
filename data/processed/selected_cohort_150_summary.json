@@ -1,0 +1,3602 @@
+[
+  {
+    "fips": "42075",
+    "name": "Lebanon County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Regional Statistical Centroid (Archetypal Average)",
+    "is_centroid": true,
+    "pop_2023": 144252,
+    "median_income": 69490.0,
+    "poverty_pct": 11.3,
+    "dem_margin_2020": -0.3172785215285703,
+    "swing_2012_2020": -0.03498795949251521,
+    "rucc_code": 3,
+    "bbox": [
+      -76.67804,
+      40.196644,
+      -76.151215,
+      40.555157
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aa1353ffffff"
+    ]
+  },
+  {
+    "fips": "44009",
+    "name": "Washington County",
+    "state": "RI",
+    "macro_region": "Northeast",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 129982,
+    "median_income": 99015.0,
+    "poverty_pct": 6.5,
+    "dem_margin_2020": 0.19367604522745202,
+    "swing_2012_2020": 0.026338778413412367,
+    "rucc_code": 1,
+    "bbox": [
+      -71.862772,
+      41.146339,
+      -71.40377,
+      41.653819
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a332a6ffffff"
+    ]
+  },
+  {
+    "fips": "42039",
+    "name": "Crawford County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 82001,
+    "median_income": 54774.0,
+    "poverty_pct": 13.9,
+    "dem_margin_2020": -0.37222645462336923,
+    "swing_2012_2020": -0.17391064135333423,
+    "rucc_code": 4,
+    "bbox": [
+      -80.519424,
+      41.480395,
+      -79.612072,
+      41.850056
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872ab182affffff"
+    ]
+  },
+  {
+    "fips": "34011",
+    "name": "Cumberland County",
+    "state": "NJ",
+    "macro_region": "Northeast",
+    "archetype": "Diverse Majority-Minority Community",
+    "is_centroid": false,
+    "pop_2023": 152326,
+    "median_income": 60892.0,
+    "poverty_pct": 15.5,
+    "dem_margin_2020": 0.06056731921693964,
+    "swing_2012_2020": -0.1817281303960242,
+    "rucc_code": 3,
+    "bbox": [
+      -75.407294,
+      39.177553,
+      -74.855894,
+      39.568643
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aadd58ffffff"
+    ]
+  },
+  {
+    "fips": "50019",
+    "name": "Orleans County",
+    "state": "VT",
+    "macro_region": "Northeast",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 27516,
+    "median_income": 56818.0,
+    "poverty_pct": 13.8,
+    "dem_margin_2020": 0.045048240635641335,
+    "swing_2012_2020": -0.19537255991174146,
+    "rucc_code": 9,
+    "bbox": [
+      -72.578161,
+      44.542336,
+      -71.874433,
+      45.011794
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872babc6bffffff"
+    ]
+  },
+  {
+    "fips": "50017",
+    "name": "Orange County",
+    "state": "VT",
+    "macro_region": "Northeast",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 29943,
+    "median_income": 73057.0,
+    "poverty_pct": 10.3,
+    "dem_margin_2020": 0.2404508819063194,
+    "swing_2012_2020": -0.07891153181317107,
+    "rucc_code": 9,
+    "bbox": [
+      -72.791336,
+      43.771143,
+      -72.040082,
+      44.220979
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872bab2d9ffffff"
+    ]
+  },
+  {
+    "fips": "36081",
+    "name": "Queens County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 2252196,
+    "median_income": 80180.0,
+    "poverty_pct": 13.1,
+    "dem_margin_2020": 0.4523303632625086,
+    "swing_2012_2020": -0.14007930748376968,
+    "rucc_code": 1,
+    "bbox": [
+      -73.962795,
+      40.545175,
+      -73.700582,
+      40.805077
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a100ebffffff"
+    ]
+  },
+  {
+    "fips": "34023",
+    "name": "Middlesex County",
+    "state": "NJ",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 863623,
+    "median_income": 102073.0,
+    "poverty_pct": 8.2,
+    "dem_margin_2020": 0.2203480510631049,
+    "swing_2012_2020": -0.05592428851507736,
+    "rucc_code": 1,
+    "bbox": [
+      -74.619591,
+      40.251358,
+      -74.206731,
+      40.608903
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a13d28ffffff"
+    ]
+  },
+  {
+    "fips": "34001",
+    "name": "Atlantic County",
+    "state": "NJ",
+    "macro_region": "Northeast",
+    "archetype": "Mid-Sized Regional Anchor Metro",
+    "is_centroid": false,
+    "pop_2023": 275213,
+    "median_income": 76108.0,
+    "poverty_pct": 11.4,
+    "dem_margin_2020": 0.06671840844197913,
+    "swing_2012_2020": -0.10184643132511545,
+    "rucc_code": 2,
+    "bbox": [
+      -74.985223,
+      39.289593,
+      -74.302184,
+      39.729909
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aad930ffffff"
+    ]
+  },
+  {
+    "fips": "36065",
+    "name": "Oneida County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 227555,
+    "median_income": 63894.0,
+    "poverty_pct": 15.8,
+    "dem_margin_2020": -0.15497389474520074,
+    "swing_2012_2020": -0.13766132265754216,
+    "rucc_code": 2,
+    "bbox": [
+      -75.886756,
+      42.863319,
+      -75.069165,
+      43.615229
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872b8bd30ffffff"
+    ]
+  },
+  {
+    "fips": "36087",
+    "name": "Rockland County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 340807,
+    "median_income": 99839.0,
+    "poverty_pct": 14.4,
+    "dem_margin_2020": 0.01739720288091301,
+    "swing_2012_2020": -0.0784868234124606,
+    "rucc_code": 1,
+    "bbox": [
+      -74.234473,
+      40.997197,
+      -73.88718,
+      41.324693
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a10cf3ffffff"
+    ]
+  },
+  {
+    "fips": "42053",
+    "name": "Forest County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 6449,
+    "median_income": 43362.0,
+    "poverty_pct": 25.5,
+    "dem_margin_2020": -0.436130007558579,
+    "swing_2012_2020": -0.22548986915027452,
+    "rucc_code": 9,
+    "bbox": [
+      -79.512276,
+      41.331861,
+      -78.956042,
+      41.625968
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aa2085ffffff"
+    ]
+  },
+  {
+    "fips": "50001",
+    "name": "Addison County",
+    "state": "VT",
+    "macro_region": "Northeast",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 37720,
+    "median_income": 79526.0,
+    "poverty_pct": 8.8,
+    "dem_margin_2020": 0.3939242575606212,
+    "swing_2012_2020": 6.607777279321603e-05,
+    "rucc_code": 6,
+    "bbox": [
+      -73.437429,
+      43.753268,
+      -72.742303,
+      44.29342
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872b8dc2effffff"
+    ]
+  },
+  {
+    "fips": "25023",
+    "name": "Plymouth County",
+    "state": "MA",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 535308,
+    "median_income": 102647.0,
+    "poverty_pct": 7.7,
+    "dem_margin_2020": 0.1736256527155618,
+    "swing_2012_2020": 0.13168530242651294,
+    "rucc_code": 1,
+    "bbox": [
+      -71.080192,
+      41.624532,
+      -70.525567,
+      42.30886
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a31486ffffff"
+    ]
+  },
+  {
+    "fips": "36075",
+    "name": "Oswego County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 118162,
+    "median_income": 59335.0,
+    "poverty_pct": 17.4,
+    "dem_margin_2020": -0.2017764401460792,
+    "swing_2012_2020": -0.30421863700194696,
+    "rucc_code": 2,
+    "bbox": [
+      -76.617109,
+      43.155562,
+      -75.756213,
+      43.707018
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872b8a055ffffff"
+    ]
+  },
+  {
+    "fips": "42007",
+    "name": "Beaver County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 165631,
+    "median_income": 67135.0,
+    "poverty_pct": 10.2,
+    "dem_margin_2020": -0.17675994985231935,
+    "swing_2012_2020": -0.11103685916464384,
+    "rucc_code": 1,
+    "bbox": [
+      -80.519086,
+      40.477365,
+      -80.14485,
+      40.855157
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a844a6ffffff"
+    ]
+  },
+  {
+    "fips": "36037",
+    "name": "Genesee County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 57529,
+    "median_income": 68973.0,
+    "poverty_pct": 10.0,
+    "dem_margin_2020": -0.3166307286853544,
+    "swing_2012_2020": -0.166222581914159,
+    "rucc_code": 4,
+    "bbox": [
+      -78.465505,
+      42.862754,
+      -77.905934,
+      43.133561
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872b996ebffffff"
+    ]
+  },
+  {
+    "fips": "36005",
+    "name": "Bronx County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 1356476,
+    "median_income": 45864.0,
+    "poverty_pct": 27.6,
+    "dem_margin_2020": 0.6756492019308693,
+    "swing_2012_2020": -0.1545610468194476,
+    "rucc_code": 1,
+    "bbox": [
+      -73.933408,
+      40.786621,
+      -73.765128,
+      40.917577
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a10013ffffff"
+    ]
+  },
+  {
+    "fips": "42133",
+    "name": "York County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Mid-Sized Regional Anchor Metro",
+    "is_centroid": false,
+    "pop_2023": 464640,
+    "median_income": 79938.0,
+    "poverty_pct": 9.1,
+    "dem_margin_2020": -0.24581185972298514,
+    "swing_2012_2020": -0.03383060949178379,
+    "rucc_code": 2,
+    "bbox": [
+      -77.137425,
+      39.720128,
+      -76.239805,
+      40.226328
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aaeb34ffffff"
+    ]
+  },
+  {
+    "fips": "34017",
+    "name": "Hudson County",
+    "state": "NJ",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 705472,
+    "median_income": 82361.0,
+    "poverty_pct": 14.2,
+    "dem_margin_2020": 0.4621693058317163,
+    "swing_2012_2020": -0.09852313584035105,
+    "rucc_code": 1,
+    "bbox": [
+      -74.165987,
+      40.641903,
+      -73.986864,
+      40.823541
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a10704ffffff"
+    ]
+  },
+  {
+    "fips": "25005",
+    "name": "Bristol County",
+    "state": "MA",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 581841,
+    "median_income": 80702.0,
+    "poverty_pct": 11.4,
+    "dem_margin_2020": 0.11996963609866834,
+    "swing_2012_2020": -0.08379088628352033,
+    "rucc_code": 1,
+    "bbox": [
+      -71.3817,
+      41.497448,
+      -70.820918,
+      42.095699
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a33b85ffffff"
+    ]
+  },
+  {
+    "fips": "42065",
+    "name": "Jefferson County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 43612,
+    "median_income": 54248.0,
+    "poverty_pct": 13.3,
+    "dem_margin_2020": -0.588547143357869,
+    "swing_2012_2020": -0.13206264316446675,
+    "rucc_code": 7,
+    "bbox": [
+      -79.21531,
+      40.90598,
+      -78.710248,
+      41.375476
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aa22acffffff"
+    ]
+  },
+  {
+    "fips": "25015",
+    "name": "Hampshire County",
+    "state": "MA",
+    "macro_region": "Northeast",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 162502,
+    "median_income": 81878.0,
+    "poverty_pct": 11.7,
+    "dem_margin_2020": 0.467605345231862,
+    "swing_2012_2020": 0.02802484511547032,
+    "rucc_code": 3,
+    "bbox": [
+      -73.000067,
+      42.18339,
+      -72.203363,
+      42.555933
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a32646ffffff"
+    ]
+  },
+  {
+    "fips": "42113",
+    "name": "Sullivan County",
+    "state": "PA",
+    "macro_region": "Northeast",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 5834,
+    "median_income": 59957.0,
+    "poverty_pct": 13.1,
+    "dem_margin_2020": -0.47232267037552156,
+    "swing_2012_2020": -0.18951493894113702,
+    "rucc_code": 8,
+    "bbox": [
+      -76.813731,
+      41.275629,
+      -76.220139,
+      41.590034
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aa5633ffffff"
+    ]
+  },
+  {
+    "fips": "34003",
+    "name": "Bergen County",
+    "state": "NJ",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 957736,
+    "median_income": 113885.0,
+    "poverty_pct": 7.0,
+    "dem_margin_2020": 0.1639327785148555,
+    "swing_2012_2020": 0.05058766542661375,
+    "rucc_code": 1,
+    "bbox": [
+      -74.270521,
+      40.786491,
+      -73.893979,
+      41.133828
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a10541ffffff"
+    ]
+  },
+  {
+    "fips": "25007",
+    "name": "Dukes County",
+    "state": "MA",
+    "macro_region": "Northeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 20819,
+    "median_income": 89136.0,
+    "poverty_pct": 8.2,
+    "dem_margin_2020": 0.5690732927019847,
+    "swing_2012_2020": 0.09624324164436249,
+    "rucc_code": 7,
+    "bbox": [
+      -70.951045,
+      41.300982,
+      -70.446233,
+      41.52564
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a316dcffffff"
+    ]
+  },
+  {
+    "fips": "23019",
+    "name": "Penobscot County",
+    "state": "ME",
+    "macro_region": "Northeast",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 155312,
+    "median_income": 60761.0,
+    "poverty_pct": 14.6,
+    "dem_margin_2020": -0.08340663078023669,
+    "swing_2012_2020": -0.11269284401077506,
+    "rucc_code": 3,
+    "bbox": [
+      -69.355667,
+      44.644023,
+      -67.93976,
+      46.395782
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872b1e706ffffff"
+    ]
+  },
+  {
+    "fips": "36047",
+    "name": "Kings County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 2561225,
+    "median_income": 73244.0,
+    "poverty_pct": 19.8,
+    "dem_margin_2020": 0.548086714861056,
+    "swing_2012_2020": -0.09153854556487906,
+    "rucc_code": 1,
+    "bbox": [
+      -74.042412,
+      40.566161,
+      -73.849852,
+      40.739292
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a10766ffffff"
+    ]
+  },
+  {
+    "fips": "23015",
+    "name": "Lincoln County",
+    "state": "ME",
+    "macro_region": "Northeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 36507,
+    "median_income": 72657.0,
+    "poverty_pct": 9.1,
+    "dem_margin_2020": 0.10290751886072724,
+    "swing_2012_2020": -0.013486950474918546,
+    "rucc_code": 8,
+    "bbox": [
+      -69.813549,
+      43.755883,
+      -69.281839,
+      44.279625
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a349acffffff"
+    ]
+  },
+  {
+    "fips": "36109",
+    "name": "Tompkins County",
+    "state": "NY",
+    "macro_region": "Northeast",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 103558,
+    "median_income": 72025.0,
+    "poverty_pct": 16.0,
+    "dem_margin_2020": 0.49246747567508475,
+    "swing_2012_2020": 0.12238933098136151,
+    "rucc_code": 3,
+    "bbox": [
+      -76.696655,
+      42.262976,
+      -76.250149,
+      42.623588
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aa4aa8ffffff"
+    ]
+  },
+  {
+    "fips": "27047",
+    "name": "Freeborn County",
+    "state": "MN",
+    "macro_region": "Midwest",
+    "archetype": "Regional Statistical Centroid (Archetypal Average)",
+    "is_centroid": true,
+    "pop_2023": 30515,
+    "median_income": 65632.0,
+    "poverty_pct": 11.7,
+    "dem_margin_2020": -0.15988821500772982,
+    "swing_2012_2020": -0.30097524960607774,
+    "rucc_code": 7,
+    "bbox": [
+      -93.648533,
+      43.499356,
+      -93.049192,
+      43.848443
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726288a2ffffff"
+    ]
+  },
+  {
+    "fips": "20117",
+    "name": "Marshall County",
+    "state": "KS",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 9933,
+    "median_income": 58942.0,
+    "poverty_pct": 10.7,
+    "dem_margin_2020": -0.4823810471829584,
+    "swing_2012_2020": -0.1207636157980852,
+    "rucc_code": 8,
+    "bbox": [
+      -96.806544,
+      39.56622,
+      -96.238969,
+      40.001371
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726e485effffff"
+    ]
+  },
+  {
+    "fips": "31001",
+    "name": "Adams County",
+    "state": "NE",
+    "macro_region": "Midwest",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 30899,
+    "median_income": 64212.0,
+    "poverty_pct": 10.9,
+    "dem_margin_2020": -0.40073705043335833,
+    "swing_2012_2020": -0.06498330141994085,
+    "rucc_code": 4,
+    "bbox": [
+      -98.724412,
+      40.350347,
+      -98.27809,
+      40.698903
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872619c8affffff"
+    ]
+  },
+  {
+    "fips": "27027",
+    "name": "Clay County",
+    "state": "MN",
+    "macro_region": "Midwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 66258,
+    "median_income": 79357.0,
+    "poverty_pct": 11.4,
+    "dem_margin_2020": 0.040758088030025785,
+    "swing_2012_2020": -0.03844983276205344,
+    "rucc_code": 3,
+    "bbox": [
+      -96.826655,
+      46.630405,
+      -96.17227,
+      47.151149
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872626803ffffff"
+    ]
+  },
+  {
+    "fips": "46007",
+    "name": "Bennett County",
+    "state": "SD",
+    "macro_region": "Midwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 3305,
+    "median_income": 49152.0,
+    "poverty_pct": 30.7,
+    "dem_margin_2020": -0.1927303465765004,
+    "swing_2012_2020": -0.1278924413395926,
+    "rucc_code": 9,
+    "bbox": [
+      -102.110819,
+      42.996238,
+      -101.227749,
+      43.389902
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872610731ffffff"
+    ]
+  },
+  {
+    "fips": "39047",
+    "name": "Fayette County",
+    "state": "OH",
+    "macro_region": "Midwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 28817,
+    "median_income": 56901.0,
+    "poverty_pct": 14.7,
+    "dem_margin_2020": -0.5152235965746907,
+    "swing_2012_2020": -0.30006933160191396,
+    "rucc_code": 6,
+    "bbox": [
+      -83.670196,
+      39.377416,
+      -83.252435,
+      39.716876
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a91505ffffff"
+    ]
+  },
+  {
+    "fips": "55085",
+    "name": "Oneida County",
+    "state": "WI",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 38226,
+    "median_income": 62242.0,
+    "poverty_pct": 11.7,
+    "dem_margin_2020": -0.14760544724533303,
+    "swing_2012_2020": -0.12612937113227185,
+    "rucc_code": 7,
+    "bbox": [
+      -90.044358,
+      45.464762,
+      -89.046315,
+      45.901464
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8727553a9ffffff"
+    ]
+  },
+  {
+    "fips": "19013",
+    "name": "Black Hawk County",
+    "state": "IA",
+    "macro_region": "Midwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 130471,
+    "median_income": 62020.0,
+    "poverty_pct": 16.6,
+    "dem_margin_2020": 0.09020467616716477,
+    "swing_2012_2020": -0.11214560160647574,
+    "rucc_code": 3,
+    "bbox": [
+      -92.554561,
+      42.297001,
+      -92.064766,
+      42.642314
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726290eeffffff"
+    ]
+  },
+  {
+    "fips": "39165",
+    "name": "Warren County",
+    "state": "OH",
+    "macro_region": "Midwest",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 252148,
+    "median_income": 104523.0,
+    "poverty_pct": 5.5,
+    "dem_margin_2020": -0.30800146950771495,
+    "swing_2012_2020": 0.08524562068723301,
+    "rucc_code": 1,
+    "bbox": [
+      -84.365232,
+      39.255068,
+      -83.977005,
+      39.589493
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a938f4ffffff"
+    ]
+  },
+  {
+    "fips": "31107",
+    "name": "Knox County",
+    "state": "NE",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 8298,
+    "median_income": 54880.0,
+    "poverty_pct": 15.6,
+    "dem_margin_2020": -0.5981308411214954,
+    "swing_2012_2020": -0.14570269444161432,
+    "rucc_code": 9,
+    "bbox": [
+      -98.309741,
+      42.436913,
+      -97.485298,
+      42.881232
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872603ce5ffffff"
+    ]
+  },
+  {
+    "fips": "55017",
+    "name": "Chippewa County",
+    "state": "WI",
+    "macro_region": "Midwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 66970,
+    "median_income": 74425.0,
+    "poverty_pct": 10.1,
+    "dem_margin_2020": -0.20407368245311364,
+    "swing_2012_2020": -0.20132571917883457,
+    "rucc_code": 3,
+    "bbox": [
+      -91.665647,
+      44.855951,
+      -90.922247,
+      45.292015
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872753824ffffff"
+    ]
+  },
+  {
+    "fips": "29201",
+    "name": "Scott County",
+    "state": "MO",
+    "macro_region": "Midwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 37889,
+    "median_income": 57678.0,
+    "poverty_pct": 16.8,
+    "dem_margin_2020": -0.5652689203679666,
+    "swing_2012_2020": -0.18283465952909372,
+    "rucc_code": 4,
+    "bbox": [
+      -89.786819,
+      36.859517,
+      -89.322733,
+      37.248629
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872643adcffffff"
+    ]
+  },
+  {
+    "fips": "39035",
+    "name": "Cuyahoga County",
+    "state": "OH",
+    "macro_region": "Midwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 1233088,
+    "median_income": 60808.0,
+    "poverty_pct": 16.6,
+    "dem_margin_2020": 0.34119743634823474,
+    "swing_2012_2020": -0.05704649758742375,
+    "rucc_code": 1,
+    "bbox": [
+      -81.971262,
+      41.275044,
+      -81.391005,
+      41.631348
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872ab38eaffffff"
+    ]
+  },
+  {
+    "fips": "55001",
+    "name": "Adams County",
+    "state": "WI",
+    "macro_region": "Midwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 21449,
+    "median_income": 54682.0,
+    "poverty_pct": 15.8,
+    "dem_margin_2020": -0.256642409883229,
+    "swing_2012_2020": -0.34393705360831894,
+    "rucc_code": 8,
+    "bbox": [
+      -90.028807,
+      43.641049,
+      -89.59795,
+      44.24947
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87275eb76ffffff"
+    ]
+  },
+  {
+    "fips": "31097",
+    "name": "Johnson County",
+    "state": "NE",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 5198,
+    "median_income": 60549.0,
+    "poverty_pct": 13.4,
+    "dem_margin_2020": -0.3900582176444245,
+    "swing_2012_2020": -0.17920024381989708,
+    "rucc_code": 8,
+    "bbox": [
+      -96.463667,
+      40.262038,
+      -96.066736,
+      40.523148
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87260a376ffffff"
+    ]
+  },
+  {
+    "fips": "31099",
+    "name": "Kearney County",
+    "state": "NE",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 6770,
+    "median_income": 74686.0,
+    "poverty_pct": 8.1,
+    "dem_margin_2020": -0.586397567044512,
+    "swing_2012_2020": -0.0908000827677824,
+    "rucc_code": 9,
+    "bbox": [
+      -99.179403,
+      40.350391,
+      -98.723948,
+      40.689772
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726182f3ffffff"
+    ]
+  },
+  {
+    "fips": "26017",
+    "name": "Bay County",
+    "state": "MI",
+    "macro_region": "Midwest",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 102500,
+    "median_income": 56388.0,
+    "poverty_pct": 14.3,
+    "dem_margin_2020": -0.11574143224628664,
+    "swing_2012_2020": -0.17130427295740103,
+    "rucc_code": 3,
+    "bbox": [
+      -84.168127,
+      43.478957,
+      -83.698816,
+      43.996974
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87276b79affffff"
+    ]
+  },
+  {
+    "fips": "29063",
+    "name": "DeKalb County",
+    "state": "MO",
+    "macro_region": "Midwest",
+    "archetype": "Mid-Sized Regional Anchor Metro",
+    "is_centroid": false,
+    "pop_2023": 9899,
+    "median_income": 66880.0,
+    "poverty_pct": 12.7,
+    "dem_margin_2020": -0.5983894280404708,
+    "swing_2012_2020": -0.17034345102897658,
+    "rucc_code": 3,
+    "bbox": [
+      -94.605377,
+      39.745841,
+      -94.203457,
+      40.039217
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87260962bffffff"
+    ]
+  },
+  {
+    "fips": "38041",
+    "name": "Hettinger County",
+    "state": "ND",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 2415,
+    "median_income": 66192.0,
+    "poverty_pct": 12.1,
+    "dem_margin_2020": -0.6821646341463414,
+    "swing_2012_2020": -0.17775934780272906,
+    "rucc_code": 9,
+    "bbox": [
+      -102.928003,
+      46.20548,
+      -101.997888,
+      46.631024
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87278dd4dffffff"
+    ]
+  },
+  {
+    "fips": "27079",
+    "name": "Le Sueur County",
+    "state": "MN",
+    "macro_region": "Midwest",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 29255,
+    "median_income": 86864.0,
+    "poverty_pct": 6.3,
+    "dem_margin_2020": -0.3034249018908313,
+    "swing_2012_2020": -0.23840293501012833,
+    "rucc_code": 1,
+    "bbox": [
+      -94.011834,
+      44.195836,
+      -93.524327,
+      44.543618
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87262c403ffffff"
+    ]
+  },
+  {
+    "fips": "26081",
+    "name": "Kent County",
+    "state": "MI",
+    "macro_region": "Midwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 661354,
+    "median_income": 76923.0,
+    "poverty_pct": 10.7,
+    "dem_margin_2020": 0.0614156566439919,
+    "swing_2012_2020": 0.13826942048855734,
+    "rucc_code": 1,
+    "bbox": [
+      -85.790662,
+      42.768139,
+      -85.309626,
+      43.294271
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872748c55ffffff"
+    ]
+  },
+  {
+    "fips": "27133",
+    "name": "Rock County",
+    "state": "MN",
+    "macro_region": "Midwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 9551,
+    "median_income": 69835.0,
+    "poverty_pct": 8.7,
+    "dem_margin_2020": -0.38683206106870227,
+    "swing_2012_2020": -0.20854068673935844,
+    "rucc_code": 2,
+    "bbox": [
+      -96.453408,
+      43.500176,
+      -96.05232,
+      43.849506
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87260509cffffff"
+    ]
+  },
+  {
+    "fips": "26071",
+    "name": "Iron County",
+    "state": "MI",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 11740,
+    "median_income": 54149.0,
+    "poverty_pct": 12.8,
+    "dem_margin_2020": -0.25379290027986445,
+    "swing_2012_2020": -0.16411354156242963,
+    "rucc_code": 9,
+    "bbox": [
+      -88.991236,
+      45.918562,
+      -88.116571,
+      46.420139
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872746465ffffff"
+    ]
+  },
+  {
+    "fips": "46023",
+    "name": "Charles Mix County",
+    "state": "SD",
+    "macro_region": "Midwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 9240,
+    "median_income": 54367.0,
+    "poverty_pct": 21.5,
+    "dem_margin_2020": -0.36346814697330165,
+    "swing_2012_2020": -0.16500906089466183,
+    "rucc_code": 9,
+    "bbox": [
+      -99.304332,
+      42.831899,
+      -98.069044,
+      43.499856
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872602164ffffff"
+    ]
+  },
+  {
+    "fips": "27105",
+    "name": "Nobles County",
+    "state": "MN",
+    "macro_region": "Midwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 21727,
+    "median_income": 65374.0,
+    "poverty_pct": 11.1,
+    "dem_margin_2020": -0.3060240963855422,
+    "swing_2012_2020": -0.21353583347474403,
+    "rucc_code": 7,
+    "bbox": [
+      -96.053163,
+      43.499865,
+      -95.452502,
+      43.84907
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87260506cffffff"
+    ]
+  },
+  {
+    "fips": "20071",
+    "name": "Greeley County",
+    "state": "KS",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 1181,
+    "median_income": 72300.0,
+    "poverty_pct": 10.3,
+    "dem_margin_2020": -0.7313195548489666,
+    "swing_2012_2020": -0.08952851007284723,
+    "rucc_code": 9,
+    "bbox": [
+      -102.045288,
+      38.262412,
+      -101.567094,
+      38.699669
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726f2970ffffff"
+    ]
+  },
+  {
+    "fips": "29123",
+    "name": "Madison County",
+    "state": "MO",
+    "macro_region": "Midwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 12698,
+    "median_income": 47068.0,
+    "poverty_pct": 18.1,
+    "dem_margin_2020": -0.6280831571529246,
+    "swing_2012_2020": -0.29562879609815795,
+    "rucc_code": 9,
+    "bbox": [
+      -90.549729,
+      37.312091,
+      -90.145699,
+      37.643641
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872643cd1ffffff"
+    ]
+  },
+  {
+    "fips": "29073",
+    "name": "Gasconade County",
+    "state": "MO",
+    "macro_region": "Midwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 14705,
+    "median_income": 59287.0,
+    "poverty_pct": 14.0,
+    "dem_margin_2020": -0.5832386722201186,
+    "swing_2012_2020": -0.19131268399471907,
+    "rucc_code": 8,
+    "bbox": [
+      -91.644893,
+      38.15249,
+      -91.367482,
+      38.709778
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872655369ffffff"
+    ]
+  },
+  {
+    "fips": "29157",
+    "name": "Perry County",
+    "state": "MO",
+    "macro_region": "Midwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 18950,
+    "median_income": 63127.0,
+    "poverty_pct": 11.5,
+    "dem_margin_2020": -0.6343812850640416,
+    "swing_2012_2020": -0.19804724224445974,
+    "rucc_code": 6,
+    "bbox": [
+      -90.147306,
+      37.566208,
+      -89.506563,
+      37.905572
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726439a8ffffff"
+    ]
+  },
+  {
+    "fips": "20135",
+    "name": "Ness County",
+    "state": "KS",
+    "macro_region": "Midwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 2618,
+    "median_income": 61539.0,
+    "poverty_pct": 11.3,
+    "dem_margin_2020": -0.785474108944183,
+    "swing_2012_2020": -0.09918602030152368,
+    "rucc_code": 9,
+    "bbox": [
+      -100.2472,
+      38.262179,
+      -99.584207,
+      38.698165
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726f578affffff"
+    ]
+  },
+  {
+    "fips": "01055",
+    "name": "Etowah County",
+    "state": "AL",
+    "macro_region": "South / Southeast",
+    "archetype": "Regional Statistical Centroid (Archetypal Average)",
+    "is_centroid": true,
+    "pop_2023": 103241,
+    "median_income": 55487.0,
+    "poverty_pct": 17.7,
+    "dem_margin_2020": -0.5020323499832383,
+    "swing_2012_2020": -0.11813862790470553,
+    "rucc_code": 3,
+    "bbox": [
+      -86.370152,
+      33.841598,
+      -85.738975,
+      34.200756
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744eb184ffffff"
+    ]
+  },
+  {
+    "fips": "01069",
+    "name": "Houston County",
+    "state": "AL",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 108462,
+    "median_income": 56842.0,
+    "poverty_pct": 17.2,
+    "dem_margin_2020": -0.4266779286596063,
+    "swing_2012_2020": -0.02343827027895834,
+    "rucc_code": 3,
+    "bbox": [
+      -85.710866,
+      30.997041,
+      -84.999428,
+      31.314973
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744e15adffffff"
+    ]
+  },
+  {
+    "fips": "28157",
+    "name": "Wilkinson County",
+    "state": "MS",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 8058,
+    "median_income": 36798.0,
+    "poverty_pct": 31.3,
+    "dem_margin_2020": 0.3450363196125908,
+    "swing_2012_2020": -0.06646172283537949,
+    "rucc_code": 8,
+    "bbox": [
+      -91.636942,
+      30.998857,
+      -91.059431,
+      31.360862
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "874440629ffffff"
+    ]
+  },
+  {
+    "fips": "21097",
+    "name": "Harrison County",
+    "state": "KY",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 19415,
+    "median_income": 60962.0,
+    "poverty_pct": 14.8,
+    "dem_margin_2020": -0.44406817925273734,
+    "swing_2012_2020": -0.15298902247485097,
+    "rucc_code": 6,
+    "bbox": [
+      -84.557375,
+      38.283236,
+      -84.1021,
+      38.582039
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a9e492ffffff"
+    ]
+  },
+  {
+    "fips": "37125",
+    "name": "Moore County",
+    "state": "NC",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 106898,
+    "median_income": 84458.0,
+    "poverty_pct": 9.8,
+    "dem_margin_2020": -0.2740019540958878,
+    "swing_2012_2020": 0.005864468396840905,
+    "rucc_code": 3,
+    "bbox": [
+      -79.769285,
+      35.043096,
+      -79.09613,
+      35.517991
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872ad64d1ffffff"
+    ]
+  },
+  {
+    "fips": "22117",
+    "name": "Washington Parish",
+    "state": "LA",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 44865,
+    "median_income": 41779.0,
+    "poverty_pct": 23.1,
+    "dem_margin_2020": -0.37600573976323476,
+    "swing_2012_2020": -0.08904594212048145,
+    "rucc_code": 6,
+    "bbox": [
+      -90.347241,
+      30.66543,
+      -89.728147,
+      31.004831
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "874442ce1ffffff"
+    ]
+  },
+  {
+    "fips": "12059",
+    "name": "Holmes County",
+    "state": "FL",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 19944,
+    "median_income": 50118.0,
+    "poverty_pct": 19.6,
+    "dem_margin_2020": -0.7891486546096163,
+    "swing_2012_2020": -0.10568237469663588,
+    "rucc_code": 8,
+    "bbox": [
+      -86.037591,
+      30.70313,
+      -85.497992,
+      30.996931
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744e1d68ffffff"
+    ]
+  },
+  {
+    "fips": "01083",
+    "name": "Limestone County",
+    "state": "AL",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 114654,
+    "median_income": 83159.0,
+    "poverty_pct": 9.9,
+    "dem_margin_2020": -0.42587590128973285,
+    "swing_2012_2020": 0.010289811223310352,
+    "rucc_code": 2,
+    "bbox": [
+      -87.260676,
+      34.55079,
+      -86.783628,
+      34.999024
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87264905cffffff"
+    ]
+  },
+  {
+    "fips": "05141",
+    "name": "Van Buren County",
+    "state": "AR",
+    "macro_region": "South / Southeast",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 16142,
+    "median_income": 47150.0,
+    "poverty_pct": 19.6,
+    "dem_margin_2020": -0.568848469322403,
+    "swing_2012_2020": -0.17491378814044345,
+    "rucc_code": 8,
+    "bbox": [
+      -92.850624,
+      35.363718,
+      -92.24052,
+      35.790823
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87265a16bffffff"
+    ]
+  },
+  {
+    "fips": "12017",
+    "name": "Citrus County",
+    "state": "FL",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 166696,
+    "median_income": 52534.0,
+    "poverty_pct": 16.9,
+    "dem_margin_2020": -0.4104797871427345,
+    "swing_2012_2020": -0.19134135473589065,
+    "rucc_code": 3,
+    "bbox": [
+      -82.758906,
+      28.665897,
+      -82.170848,
+      29.044855
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744f4956ffffff"
+    ]
+  },
+  {
+    "fips": "13185",
+    "name": "Lowndes County",
+    "state": "GA",
+    "macro_region": "South / Southeast",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 120712,
+    "median_income": 52623.0,
+    "poverty_pct": 15.4,
+    "dem_margin_2020": -0.12028907345485929,
+    "swing_2012_2020": -0.021737830385640866,
+    "rucc_code": 3,
+    "bbox": [
+      -83.482461,
+      30.624346,
+      -83.019419,
+      31.031964
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744e24f6ffffff"
+    ]
+  },
+  {
+    "fips": "24027",
+    "name": "Howard County",
+    "state": "MD",
+    "macro_region": "South / Southeast",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 336001,
+    "median_income": 133068.0,
+    "poverty_pct": 5.7,
+    "dem_margin_2020": 0.4427079350165518,
+    "swing_2012_2020": 0.22302640302606141,
+    "rucc_code": 1,
+    "bbox": [
+      -77.186804,
+      39.103142,
+      -76.697085,
+      39.353957
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aa8526ffffff"
+    ]
+  },
+  {
+    "fips": "51113",
+    "name": "Madison County",
+    "state": "VA",
+    "macro_region": "South / Southeast",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 14128,
+    "median_income": 71697.0,
+    "poverty_pct": 10.7,
+    "dem_margin_2020": -0.3200885717800468,
+    "swing_2012_2020": -0.13411941544499995,
+    "rucc_code": 8,
+    "bbox": [
+      -78.452918,
+      38.230308,
+      -78.094571,
+      38.627282
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872aaa65bffffff"
+    ]
+  },
+  {
+    "fips": "45035",
+    "name": "Dorchester County",
+    "state": "SC",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 169833,
+    "median_income": 74730.0,
+    "poverty_pct": 10.7,
+    "dem_margin_2020": -0.1046740340070913,
+    "swing_2012_2020": 0.055136009084985005,
+    "rucc_code": 2,
+    "bbox": [
+      -80.790296,
+      32.818904,
+      -80.079028,
+      33.334496
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744d0258ffffff"
+    ]
+  },
+  {
+    "fips": "45037",
+    "name": "Edgefield County",
+    "state": "SC",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 27607,
+    "median_income": 61318.0,
+    "poverty_pct": 16.4,
+    "dem_margin_2020": -0.2428592904389657,
+    "swing_2012_2020": -0.10950869489261666,
+    "rucc_code": 2,
+    "bbox": [
+      -82.172379,
+      33.530313,
+      -81.651759,
+      33.975415
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744dc814ffffff"
+    ]
+  },
+  {
+    "fips": "13235",
+    "name": "Pulaski County",
+    "state": "GA",
+    "macro_region": "South / Southeast",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 10095,
+    "median_income": 46975.0,
+    "poverty_pct": 19.6,
+    "dem_margin_2020": -0.3883851997059545,
+    "swing_2012_2020": -0.0556855799340914,
+    "rucc_code": 8,
+    "bbox": [
+      -83.615579,
+      32.105885,
+      -83.291106,
+      32.401715
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744c4296ffffff"
+    ]
+  },
+  {
+    "fips": "13033",
+    "name": "Burke County",
+    "state": "GA",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 24438,
+    "median_income": 49431.0,
+    "poverty_pct": 21.8,
+    "dem_margin_2020": -0.017972479640550376,
+    "swing_2012_2020": -0.13086745867726168,
+    "rucc_code": 2,
+    "bbox": [
+      -82.316512,
+      32.812741,
+      -81.541831,
+      33.296771
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744c2189ffffff"
+    ]
+  },
+  {
+    "fips": "13097",
+    "name": "Douglas County",
+    "state": "GA",
+    "macro_region": "South / Southeast",
+    "archetype": "Diverse Majority-Minority Community",
+    "is_centroid": false,
+    "pop_2023": 149160,
+    "median_income": 79242.0,
+    "poverty_pct": 10.2,
+    "dem_margin_2020": 0.2512082887158857,
+    "swing_2012_2020": 0.21140153242370407,
+    "rucc_code": 1,
+    "bbox": [
+      -84.905788,
+      33.573378,
+      -84.578132,
+      33.80617
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744c1b4dffffff"
+    ]
+  },
+  {
+    "fips": "13271",
+    "name": "Telfair County",
+    "state": "GA",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 10920,
+    "median_income": 41547.0,
+    "poverty_pct": 30.6,
+    "dem_margin_2020": -0.3084910013844024,
+    "swing_2012_2020": -0.15281756965008503,
+    "rucc_code": 9,
+    "bbox": [
+      -83.205739,
+      31.780983,
+      -82.645659,
+      32.153274
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744c44d6ffffff"
+    ]
+  },
+  {
+    "fips": "12101",
+    "name": "Pasco County",
+    "state": "FL",
+    "macro_region": "South / Southeast",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 632996,
+    "median_income": 65933.0,
+    "poverty_pct": 10.9,
+    "dem_margin_2020": -0.2005099844355399,
+    "swing_2012_2020": -0.13419073996175346,
+    "rucc_code": 1,
+    "bbox": [
+      -82.805097,
+      28.17165,
+      -82.054694,
+      28.478491
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87441a0e2ffffff"
+    ]
+  },
+  {
+    "fips": "51175",
+    "name": "Southampton County",
+    "state": "VA",
+    "macro_region": "South / Southeast",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 17975,
+    "median_income": 61246.0,
+    "poverty_pct": 15.0,
+    "dem_margin_2020": -0.17995095033721642,
+    "swing_2012_2020": -0.14799930957728552,
+    "rucc_code": 6,
+    "bbox": [
+      -77.501917,
+      36.543815,
+      -76.816162,
+      36.996211
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872af2c22ffffff"
+    ]
+  },
+  {
+    "fips": "13283",
+    "name": "Treutlen County",
+    "state": "GA",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 6341,
+    "median_income": 43533.0,
+    "poverty_pct": 21.7,
+    "dem_margin_2020": -0.3734156646083848,
+    "swing_2012_2020": -0.16323384642656658,
+    "rucc_code": 9,
+    "bbox": [
+      -82.737137,
+      32.297561,
+      -82.38194,
+      32.512507
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744c6235ffffff"
+    ]
+  },
+  {
+    "fips": "37151",
+    "name": "Randolph County",
+    "state": "NC",
+    "macro_region": "South / Southeast",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 147458,
+    "median_income": 58037.0,
+    "poverty_pct": 14.2,
+    "dem_margin_2020": -0.5629876152545147,
+    "swing_2012_2020": -0.0625017386177692,
+    "rucc_code": 2,
+    "bbox": [
+      -80.066842,
+      35.505661,
+      -79.541978,
+      35.920663
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744da6c9ffffff"
+    ]
+  },
+  {
+    "fips": "21217",
+    "name": "Taylor County",
+    "state": "KY",
+    "macro_region": "South / Southeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 26443,
+    "median_income": 52414.0,
+    "poverty_pct": 17.8,
+    "dem_margin_2020": -0.5123432132300072,
+    "swing_2012_2020": -0.12275417213411682,
+    "rucc_code": 7,
+    "bbox": [
+      -85.584477,
+      37.192432,
+      -85.073772,
+      37.469917
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87266911affffff"
+    ]
+  },
+  {
+    "fips": "21119",
+    "name": "Knott County",
+    "state": "KY",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 13659,
+    "median_income": 38456.0,
+    "poverty_pct": 29.2,
+    "dem_margin_2020": -0.5387076135636597,
+    "swing_2012_2020": -0.06268442719443434,
+    "rucc_code": 9,
+    "bbox": [
+      -83.134711,
+      37.17242,
+      -82.710805,
+      37.526231
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a98622ffffff"
+    ]
+  },
+  {
+    "fips": "51185",
+    "name": "Tazewell County",
+    "state": "VA",
+    "macro_region": "South / Southeast",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 39120,
+    "median_income": 48360.0,
+    "poverty_pct": 17.6,
+    "dem_margin_2020": -0.6717989470547333,
+    "swing_2012_2020": -0.09758284058056232,
+    "rucc_code": 7,
+    "bbox": [
+      -81.901087,
+      36.933014,
+      -81.225104,
+      37.337687
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872a998a5ffffff"
+    ]
+  },
+  {
+    "fips": "21045",
+    "name": "Casey County",
+    "state": "KY",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 15918,
+    "median_income": 43539.0,
+    "poverty_pct": 25.5,
+    "dem_margin_2020": -0.7336494212801561,
+    "swing_2012_2020": -0.10682295600351843,
+    "rucc_code": 9,
+    "bbox": [
+      -85.165174,
+      37.102271,
+      -84.720712,
+      37.547894
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872669b81ffffff"
+    ]
+  },
+  {
+    "fips": "01117",
+    "name": "Shelby County",
+    "state": "AL",
+    "macro_region": "South / Southeast",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 233000,
+    "median_income": 98263.0,
+    "poverty_pct": 6.8,
+    "dem_margin_2020": -0.4039321444106133,
+    "swing_2012_2020": 0.15153933342349646,
+    "rucc_code": 1,
+    "bbox": [
+      -87.026846,
+      33.020566,
+      -86.35734,
+      33.545896
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744e8334ffffff"
+    ]
+  },
+  {
+    "fips": "22033",
+    "name": "East Baton Rouge Parish",
+    "state": "LA",
+    "macro_region": "South / Southeast",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 448467,
+    "median_income": 61376.0,
+    "poverty_pct": 18.5,
+    "dem_margin_2020": 0.13044835768702384,
+    "swing_2012_2020": 0.07815009002929396,
+    "rucc_code": 2,
+    "bbox": [
+      -91.297658,
+      30.319893,
+      -90.849041,
+      30.719311
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "874440cd6ffffff"
+    ]
+  },
+  {
+    "fips": "28061",
+    "name": "Jasper County",
+    "state": "MS",
+    "macro_region": "South / Southeast",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 16013,
+    "median_income": 44810.0,
+    "poverty_pct": 20.3,
+    "dem_margin_2020": 0.0044612216884008515,
+    "swing_2012_2020": -0.09232678687690965,
+    "rucc_code": 8,
+    "bbox": [
+      -89.322692,
+      31.80209,
+      -88.910459,
+      32.224186
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87445e905ffffff"
+    ]
+  },
+  {
+    "fips": "48305",
+    "name": "Lynn County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Regional Statistical Centroid (Archetypal Average)",
+    "is_centroid": true,
+    "pop_2023": 5761,
+    "median_income": 56754.0,
+    "poverty_pct": 15.6,
+    "dem_margin_2020": -0.6214566070649803,
+    "swing_2012_2020": -0.14519320737125896,
+    "rucc_code": 2,
+    "bbox": [
+      -102.076214,
+      32.959702,
+      -101.556884,
+      33.39476
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726dac2dffffff"
+    ]
+  },
+  {
+    "fips": "40095",
+    "name": "Marshall County",
+    "state": "OK",
+    "macro_region": "Southwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 15970,
+    "median_income": 51341.0,
+    "poverty_pct": 15.5,
+    "dem_margin_2020": -0.6251649076517151,
+    "swing_2012_2020": -0.1683555691303143,
+    "rucc_code": 9,
+    "bbox": [
+      -96.969627,
+      33.824406,
+      -96.548028,
+      34.172553
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726cc6e5ffffff"
+    ]
+  },
+  {
+    "fips": "40145",
+    "name": "Wagoner County",
+    "state": "OK",
+    "macro_region": "Southwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 89280,
+    "median_income": 73851.0,
+    "poverty_pct": 9.2,
+    "dem_margin_2020": -0.500905540777633,
+    "swing_2012_2020": -0.044002679253113186,
+    "rucc_code": 1,
+    "bbox": [
+      -95.819964,
+      35.787596,
+      -95.207946,
+      36.162823
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726e842dffffff"
+    ]
+  },
+  {
+    "fips": "40107",
+    "name": "Okfuskee County",
+    "state": "OK",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 11300,
+    "median_income": 43544.0,
+    "poverty_pct": 23.8,
+    "dem_margin_2020": -0.5354135710747895,
+    "swing_2012_2020": -0.23494016533822581,
+    "rucc_code": 8,
+    "bbox": [
+      -96.624865,
+      35.289899,
+      -95.981307,
+      35.639087
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726ea0ecffffff"
+    ]
+  },
+  {
+    "fips": "35006",
+    "name": "Cibola County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 26780,
+    "median_income": 45674.0,
+    "poverty_pct": 29.6,
+    "dem_margin_2020": 0.08648770077501972,
+    "swing_2012_2020": -0.15165375257934155,
+    "rucc_code": 6,
+    "bbox": [
+      -109.046156,
+      34.57806,
+      -107.066694,
+      35.348333
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748dda06ffffff"
+    ]
+  },
+  {
+    "fips": "48333",
+    "name": "Mills County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 4548,
+    "median_income": 58068.0,
+    "poverty_pct": 15.0,
+    "dem_margin_2020": -0.7768463073852295,
+    "swing_2012_2020": -0.048540991619668516,
+    "rucc_code": 9,
+    "bbox": [
+      -98.991608,
+      31.230582,
+      -98.266794,
+      31.723608
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87489b860ffffff"
+    ]
+  },
+  {
+    "fips": "48313",
+    "name": "Madison County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 13742,
+    "median_income": 53906.0,
+    "poverty_pct": 16.7,
+    "dem_margin_2020": -0.5816499905606947,
+    "swing_2012_2020": -0.069981668812929,
+    "rucc_code": 8,
+    "bbox": [
+      -96.24102,
+      30.822997,
+      -95.617872,
+      31.094211
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8744699b6ffffff"
+    ]
+  },
+  {
+    "fips": "48485",
+    "name": "Wichita County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 130180,
+    "median_income": 56634.0,
+    "poverty_pct": 15.5,
+    "dem_margin_2020": -0.410775581142733,
+    "swing_2012_2020": 0.059432620134754977,
+    "rucc_code": 3,
+    "bbox": [
+      -98.953088,
+      33.834,
+      -98.423577,
+      34.195621
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726dd844ffffff"
+    ]
+  },
+  {
+    "fips": "40093",
+    "name": "Major County",
+    "state": "OK",
+    "macro_region": "Southwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 7581,
+    "median_income": 63840.0,
+    "poverty_pct": 12.2,
+    "dem_margin_2020": -0.797231035477358,
+    "swing_2012_2020": -0.0807656826483687,
+    "rucc_code": 8,
+    "bbox": [
+      -98.960334,
+      36.161577,
+      -98.103904,
+      36.506914
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726c0806ffffff"
+    ]
+  },
+  {
+    "fips": "48121",
+    "name": "Denton County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 1007703,
+    "median_income": 102711.0,
+    "poverty_pct": 7.8,
+    "dem_margin_2020": -0.0808323204869319,
+    "swing_2012_2020": 0.23468248503738842,
+    "rucc_code": 1,
+    "bbox": [
+      -97.39848,
+      32.987554,
+      -96.834004,
+      33.43045
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726c845dffffff"
+    ]
+  },
+  {
+    "fips": "48383",
+    "name": "Reagan County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 3141,
+    "median_income": 83195.0,
+    "poverty_pct": 11.3,
+    "dem_margin_2020": -0.6850533807829182,
+    "swing_2012_2020": -0.07058125741399768,
+    "rucc_code": 8,
+    "bbox": [
+      -101.776191,
+      31.079379,
+      -101.267122,
+      31.651319
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87488bc0bffffff"
+    ]
+  },
+  {
+    "fips": "35019",
+    "name": "Guadalupe County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 4292,
+    "median_income": 43862.0,
+    "poverty_pct": 23.8,
+    "dem_margin_2020": 0.14481498401096393,
+    "swing_2012_2020": -0.2912505897595279,
+    "rucc_code": 9,
+    "bbox": [
+      -105.312968,
+      34.34672,
+      -104.124816,
+      35.216345
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748de0b2ffffff"
+    ]
+  },
+  {
+    "fips": "48033",
+    "name": "Borden County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 572,
+    "median_income": 75186.0,
+    "poverty_pct": 11.5,
+    "dem_margin_2020": -0.9158653846153847,
+    "swing_2012_2020": -0.11145767111676208,
+    "rucc_code": 9,
+    "bbox": [
+      -101.691284,
+      32.524112,
+      -101.173378,
+      32.963597
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726da063ffffff"
+    ]
+  },
+  {
+    "fips": "35013",
+    "name": "Do\u00f1a Ana County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 225210,
+    "median_income": 52011.0,
+    "poverty_pct": 23.2,
+    "dem_margin_2020": 0.18338355053786864,
+    "swing_2012_2020": 0.035588359113211565,
+    "rucc_code": 3,
+    "bbox": [
+      -107.299463,
+      31.783513,
+      -106.340473,
+      33.052795
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748c6222ffffff"
+    ]
+  },
+  {
+    "fips": "48213",
+    "name": "Henderson County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 86158,
+    "median_income": 62843.0,
+    "poverty_pct": 13.0,
+    "dem_margin_2020": -0.6017901404571744,
+    "swing_2012_2020": -0.054318464198441996,
+    "rucc_code": 4,
+    "bbox": [
+      -96.452138,
+      32.005895,
+      -95.428512,
+      32.358631
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726c9676ffffff"
+    ]
+  },
+  {
+    "fips": "35028",
+    "name": "Los Alamos County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 19444,
+    "median_income": 139217.0,
+    "poverty_pct": 3.7,
+    "dem_margin_2020": 0.2664931261693647,
+    "swing_2012_2020": 0.2294178492780563,
+    "rucc_code": 6,
+    "bbox": [
+      -106.4007,
+      35.755739,
+      -106.171656,
+      35.966335
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748d82b3ffffff"
+    ]
+  },
+  {
+    "fips": "35035",
+    "name": "Otero County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 68835,
+    "median_income": 52787.0,
+    "poverty_pct": 19.6,
+    "dem_margin_2020": -0.2560773832251496,
+    "swing_2012_2020": 0.024854057910169203,
+    "rucc_code": 4,
+    "bbox": [
+      -106.377174,
+      32.000482,
+      -104.847757,
+      33.390815
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748d5af1ffffff"
+    ]
+  },
+  {
+    "fips": "48167",
+    "name": "Galveston County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 361744,
+    "median_income": 75947.0,
+    "poverty_pct": 13.5,
+    "dem_margin_2020": -0.22616406552302337,
+    "swing_2012_2020": 0.04226377655259572,
+    "rucc_code": 1,
+    "bbox": [
+      -95.233081,
+      29.077844,
+      -94.370866,
+      29.597467
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87446cc40ffffff"
+    ]
+  },
+  {
+    "fips": "40109",
+    "name": "Oklahoma County",
+    "state": "OK",
+    "macro_region": "Southwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 808866,
+    "median_income": 61580.0,
+    "poverty_pct": 16.0,
+    "dem_margin_2020": -0.011284521951550497,
+    "swing_2012_2020": 0.1552302223124049,
+    "rucc_code": 1,
+    "bbox": [
+      -97.674026,
+      35.37686,
+      -97.141072,
+      35.72597
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726c1803ffffff"
+    ]
+  },
+  {
+    "fips": "48345",
+    "name": "Motley County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 1020,
+    "median_income": 46320.0,
+    "poverty_pct": 18.3,
+    "dem_margin_2020": -0.8558282208588956,
+    "swing_2012_2020": -0.05082822085889571,
+    "rucc_code": 8,
+    "bbox": [
+      -101.041484,
+      33.833625,
+      -100.51734,
+      34.314102
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726deb62ffffff"
+    ]
+  },
+  {
+    "fips": "40129",
+    "name": "Roger Mills County",
+    "state": "OK",
+    "macro_region": "Southwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 3295,
+    "median_income": 55183.0,
+    "poverty_pct": 16.3,
+    "dem_margin_2020": -0.7966194111232279,
+    "swing_2012_2020": -0.12158954254497223,
+    "rucc_code": 9,
+    "bbox": [
+      -100.000396,
+      35.421655,
+      -99.364141,
+      36.012925
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726c2bb5ffffff"
+    ]
+  },
+  {
+    "fips": "48315",
+    "name": "Marion County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 9571,
+    "median_income": 47720.0,
+    "poverty_pct": 17.9,
+    "dem_margin_2020": -0.43811677631578944,
+    "swing_2012_2020": -0.14899954137884408,
+    "rucc_code": 8,
+    "bbox": [
+      -94.705878,
+      32.69303,
+      -94.042747,
+      32.881089
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87444dc4affffff"
+    ]
+  },
+  {
+    "fips": "35041",
+    "name": "Roosevelt County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 18787,
+    "median_income": 47854.0,
+    "poverty_pct": 17.6,
+    "dem_margin_2020": -0.4285714285714286,
+    "swing_2012_2020": -0.04056673766842972,
+    "rucc_code": 7,
+    "bbox": [
+      -103.948839,
+      33.570256,
+      -103.043516,
+      34.605058
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748d352dffffff"
+    ]
+  },
+  {
+    "fips": "35007",
+    "name": "Colfax County",
+    "state": "NM",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 12255,
+    "median_income": 49966.0,
+    "poverty_pct": 18.5,
+    "dem_margin_2020": -0.10970744680851069,
+    "swing_2012_2020": -0.13208773827277165,
+    "rucc_code": 7,
+    "bbox": [
+      -105.377745,
+      36.217997,
+      -104.007855,
+      36.996239
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87268b28affffff"
+    ]
+  },
+  {
+    "fips": "48149",
+    "name": "Fayette County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 25474,
+    "median_income": 70476.0,
+    "poverty_pct": 10.8,
+    "dem_margin_2020": -0.5803260953558458,
+    "swing_2012_2020": -0.03146816719737733,
+    "rucc_code": 6,
+    "bbox": [
+      -97.317893,
+      29.628101,
+      -96.569844,
+      30.160545
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87489e572ffffff"
+    ]
+  },
+  {
+    "fips": "48505",
+    "name": "Zapata County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 13736,
+    "median_income": 39403.0,
+    "poverty_pct": 32.8,
+    "dem_margin_2020": -0.053433144037170865,
+    "swing_2012_2020": -0.48527056994741646,
+    "rucc_code": 6,
+    "bbox": [
+      -99.453949,
+      26.57086,
+      -98.95423,
+      27.319174
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748868edffffff"
+    ]
+  },
+  {
+    "fips": "48277",
+    "name": "Lamar County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Rural-Urban Transition Community",
+    "is_centroid": false,
+    "pop_2023": 51127,
+    "median_income": 62620.0,
+    "poverty_pct": 15.0,
+    "dem_margin_2020": -0.5743766925016341,
+    "swing_2012_2020": -0.07167273250861206,
+    "rucc_code": 5,
+    "bbox": [
+      -95.857738,
+      33.380662,
+      -95.308637,
+      33.934247
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726cd0f4ffffff"
+    ]
+  },
+  {
+    "fips": "48103",
+    "name": "Crane County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 4574,
+    "median_income": 67889.0,
+    "poverty_pct": 11.4,
+    "dem_margin_2020": -0.669328010645376,
+    "swing_2012_2020": -0.1159375196087431,
+    "rucc_code": 8,
+    "bbox": [
+      -102.767688,
+      31.086212,
+      -102.301212,
+      31.651714
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8748894ceffffff"
+    ]
+  },
+  {
+    "fips": "48339",
+    "name": "Montgomery County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 711354,
+    "median_income": 95241.0,
+    "poverty_pct": 8.5,
+    "dem_margin_2020": -0.43840324773163486,
+    "swing_2012_2020": 0.16842004110282593,
+    "rucc_code": 1,
+    "bbox": [
+      -95.83024,
+      30.032217,
+      -95.096708,
+      30.630284
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87446d5aaffffff"
+    ]
+  },
+  {
+    "fips": "48327",
+    "name": "Menard County",
+    "state": "TX",
+    "macro_region": "Southwest",
+    "archetype": "Persistent-Poverty Distressed Rural",
+    "is_centroid": false,
+    "pop_2023": 1958,
+    "median_income": 44145.0,
+    "poverty_pct": 20.6,
+    "dem_margin_2020": -0.6089494163424125,
+    "swing_2012_2020": -0.027088403385993165,
+    "rucc_code": 9,
+    "bbox": [
+      -100.116234,
+      30.710366,
+      -99.483869,
+      31.087994
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "874899975ffffff"
+    ]
+  },
+  {
+    "fips": "32001",
+    "name": "Churchill County",
+    "state": "NV",
+    "macro_region": "Northwest",
+    "archetype": "Regional Statistical Centroid (Archetypal Average)",
+    "is_centroid": true,
+    "pop_2023": 25803,
+    "median_income": 70149.0,
+    "poverty_pct": 10.1,
+    "dem_margin_2020": -0.49038013964313426,
+    "swing_2012_2020": -0.0909646501156135,
+    "rucc_code": 6,
+    "bbox": [
+      -119.225176,
+      39.073654,
+      -117.46164,
+      40.002466
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8729886daffffff"
+    ]
+  },
+  {
+    "fips": "56043",
+    "name": "Washakie County",
+    "state": "WY",
+    "macro_region": "Northwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 7710,
+    "median_income": 60699.0,
+    "poverty_pct": 10.9,
+    "dem_margin_2020": -0.6465603190428714,
+    "swing_2012_2020": -0.08367999449926078,
+    "rucc_code": 9,
+    "bbox": [
+      -108.550758,
+      43.500286,
+      -107.110734,
+      44.168455
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87279b2c6ffffff"
+    ]
+  },
+  {
+    "fips": "08047",
+    "name": "Gilpin County",
+    "state": "CO",
+    "macro_region": "Northwest",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 5926,
+    "median_income": 89805.0,
+    "poverty_pct": 6.4,
+    "dem_margin_2020": 0.09316770186335399,
+    "swing_2012_2020": -0.0704032987358072,
+    "rucc_code": 1,
+    "bbox": [
+      -105.690348,
+      39.747087,
+      -105.39745,
+      39.934867
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872681068ffffff"
+    ]
+  },
+  {
+    "fips": "06011",
+    "name": "Colusa County",
+    "state": "CA",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 22037,
+    "median_income": 72963.0,
+    "poverty_pct": 10.7,
+    "dem_margin_2020": -0.1660168532260093,
+    "swing_2012_2020": 0.04727449579619819,
+    "rucc_code": 6,
+    "bbox": [
+      -122.78509,
+      38.923945,
+      -121.835488,
+      39.414499
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872833118ffffff"
+    ]
+  },
+  {
+    "fips": "56017",
+    "name": "Hot Springs County",
+    "state": "WY",
+    "macro_region": "Northwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 4661,
+    "median_income": 64734.0,
+    "poverty_pct": 12.7,
+    "dem_margin_2020": -0.5886689949553744,
+    "swing_2012_2020": -0.043142155989171704,
+    "rucc_code": 9,
+    "bbox": [
+      -109.312949,
+      43.459765,
+      -107.595105,
+      44.07976
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726b5d1dffffff"
+    ]
+  },
+  {
+    "fips": "06095",
+    "name": "Solano County",
+    "state": "CA",
+    "macro_region": "Northwest",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 449218,
+    "median_income": 92711.0,
+    "poverty_pct": 10.0,
+    "dem_margin_2020": 0.3028358216206499,
+    "swing_2012_2020": 0.009672430473736948,
+    "rucc_code": 2,
+    "bbox": [
+      -122.406978,
+      38.035717,
+      -121.593273,
+      38.533384
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872830549ffffff"
+    ]
+  },
+  {
+    "fips": "08109",
+    "name": "Saguache County",
+    "state": "CO",
+    "macro_region": "Northwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 6688,
+    "median_income": 45048.0,
+    "poverty_pct": 22.5,
+    "dem_margin_2020": 0.13897904986721743,
+    "swing_2012_2020": -0.1681881856276632,
+    "rucc_code": 9,
+    "bbox": [
+      -107.001119,
+      37.747809,
+      -105.428893,
+      38.446566
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87268ac2effffff"
+    ]
+  },
+  {
+    "fips": "16051",
+    "name": "Jefferson County",
+    "state": "ID",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 34198,
+    "median_income": 76474.0,
+    "poverty_pct": 8.4,
+    "dem_margin_2020": -0.7364707542510407,
+    "swing_2012_2020": 0.01847169368850765,
+    "rucc_code": 3,
+    "bbox": [
+      -112.697408,
+      43.623011,
+      -111.626438,
+      44.058454
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87289416effffff"
+    ]
+  },
+  {
+    "fips": "02090",
+    "name": "Fairbanks North Star Borough",
+    "state": "AK",
+    "macro_region": "Northwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 94840,
+    "median_income": 84166.0,
+    "poverty_pct": 7.8,
+    "dem_margin_2020": 0.0,
+    "swing_2012_2020": 0.0,
+    "rucc_code": 3,
+    "bbox": [
+      -148.663844,
+      64.257854,
+      -143.884795,
+      65.454475
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "870d58508ffffff"
+    ]
+  },
+  {
+    "fips": "02188",
+    "name": "Northwest Arctic Borough",
+    "state": "AK",
+    "macro_region": "Northwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 7361,
+    "median_income": 69234.0,
+    "poverty_pct": 19.7,
+    "dem_margin_2020": 0.0,
+    "swing_2012_2020": 0.0,
+    "rucc_code": 9,
+    "bbox": [
+      -165.35998,
+      65.435857,
+      -154.141599,
+      68.301027
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "870c35af3ffffff"
+    ]
+  },
+  {
+    "fips": "41019",
+    "name": "Douglas County",
+    "state": "OR",
+    "macro_region": "Northwest",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 112435,
+    "median_income": 55837.0,
+    "poverty_pct": 16.9,
+    "dem_margin_2020": -0.37511072433138043,
+    "swing_2012_2020": -0.10141235274733934,
+    "rucc_code": 4,
+    "bbox": [
+      -124.218876,
+      42.702486,
+      -121.973841,
+      43.945131
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87281ab72ffffff"
+    ]
+  },
+  {
+    "fips": "30013",
+    "name": "Cascade County",
+    "state": "MT",
+    "macro_region": "Northwest",
+    "archetype": "Working-Class Industrial / Post-Industrial Hub",
+    "is_centroid": false,
+    "pop_2023": 84900,
+    "median_income": 59184.0,
+    "poverty_pct": 13.8,
+    "dem_margin_2020": -0.1970414942961013,
+    "swing_2012_2020": -0.10697668698213303,
+    "rucc_code": 3,
+    "bbox": [
+      -112.047308,
+      46.823626,
+      -110.63928,
+      47.698605
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "87279049affffff"
+    ]
+  },
+  {
+    "fips": "53059",
+    "name": "Skamania County",
+    "state": "WA",
+    "macro_region": "Northwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 12640,
+    "median_income": 82132.0,
+    "poverty_pct": 9.6,
+    "dem_margin_2020": -0.09477571115973743,
+    "swing_2012_2020": -0.08398171189153403,
+    "rucc_code": 1,
+    "bbox": [
+      -122.248993,
+      45.547745,
+      -121.522392,
+      46.388221
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8728f2a31ffffff"
+    ]
+  },
+  {
+    "fips": "08099",
+    "name": "Prowers County",
+    "state": "CO",
+    "macro_region": "Northwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 11751,
+    "median_income": 48832.0,
+    "poverty_pct": 18.6,
+    "dem_margin_2020": -0.45855062039201583,
+    "swing_2012_2020": -0.1067101926725012,
+    "rucc_code": 7,
+    "bbox": [
+      -102.747615,
+      37.643642,
+      -102.041574,
+      38.268749
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726f20b1ffffff"
+    ]
+  },
+  {
+    "fips": "53061",
+    "name": "Snohomish County",
+    "state": "WA",
+    "macro_region": "Northwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 844761,
+    "median_income": 101440.0,
+    "poverty_pct": 8.5,
+    "dem_margin_2020": 0.20579039006736616,
+    "swing_2012_2020": 0.03751525567465752,
+    "rucc_code": 1,
+    "bbox": [
+      -122.405757,
+      47.775284,
+      -120.906411,
+      48.29759
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8728d0140ffffff"
+    ]
+  },
+  {
+    "fips": "56019",
+    "name": "Johnson County",
+    "state": "WY",
+    "macro_region": "Northwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 8759,
+    "median_income": 70067.0,
+    "poverty_pct": 8.6,
+    "dem_margin_2020": -0.6072446072446073,
+    "swing_2012_2020": 0.00651449113529412,
+    "rucc_code": 9,
+    "bbox": [
+      -107.369621,
+      43.492362,
+      -106.009201,
+      44.563981
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8726a68f6ffffff"
+    ]
+  },
+  {
+    "fips": "32029",
+    "name": "Storey County",
+    "state": "NV",
+    "macro_region": "Northwest",
+    "archetype": "Affluent High-Tech / Executive Suburb",
+    "is_centroid": false,
+    "pop_2023": 4177,
+    "median_income": 90171.0,
+    "poverty_pct": 7.2,
+    "dem_margin_2020": -0.34966979492526934,
+    "swing_2012_2020": -0.1763767957895736,
+    "rucc_code": 2,
+    "bbox": [
+      -119.712645,
+      39.250871,
+      -119.279801,
+      39.627112
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872989568ffffff"
+    ]
+  },
+  {
+    "fips": "16031",
+    "name": "Cassia County",
+    "state": "ID",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 25696,
+    "median_income": 68170.0,
+    "poverty_pct": 11.6,
+    "dem_margin_2020": -0.6691245196801329,
+    "swing_2012_2020": 0.05217133548899522,
+    "rucc_code": 6,
+    "bbox": [
+      -114.285363,
+      41.988057,
+      -113.00082,
+      42.687887
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8728b015cffffff"
+    ]
+  },
+  {
+    "fips": "16015",
+    "name": "Boise County",
+    "state": "ID",
+    "macro_region": "Northwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 8517,
+    "median_income": 74121.0,
+    "poverty_pct": 9.7,
+    "dem_margin_2020": -0.47323651452282156,
+    "swing_2012_2020": -0.11590705153298125,
+    "rucc_code": 2,
+    "bbox": [
+      -116.281687,
+      43.591338,
+      -114.99075,
+      44.339411
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872880d0dffffff"
+    ]
+  },
+  {
+    "fips": "53077",
+    "name": "Yakima County",
+    "state": "WA",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 256643,
+    "median_income": 63058.0,
+    "poverty_pct": 16.5,
+    "dem_margin_2020": -0.07667917623943526,
+    "swing_2012_2020": 0.04053075451550481,
+    "rucc_code": 2,
+    "bbox": [
+      -121.523938,
+      46.040662,
+      -119.866265,
+      47.088954
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872889b2cffffff"
+    ]
+  },
+  {
+    "fips": "41053",
+    "name": "Polk County",
+    "state": "OR",
+    "macro_region": "Northwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 89805,
+    "median_income": 77156.0,
+    "poverty_pct": 12.7,
+    "dem_margin_2020": -0.016876850758940576,
+    "swing_2012_2020": 0.026433697500979514,
+    "rucc_code": 2,
+    "bbox": [
+      -123.725389,
+      44.719441,
+      -123.039507,
+      45.076098
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8728f552affffff"
+    ]
+  },
+  {
+    "fips": "30003",
+    "name": "Big Horn County",
+    "state": "MT",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 12751,
+    "median_income": 49113.0,
+    "poverty_pct": 22.8,
+    "dem_margin_2020": 0.059364548494983294,
+    "swing_2012_2020": -0.20328136590190388,
+    "rucc_code": 8,
+    "bbox": [
+      -108.699552,
+      44.993788,
+      -106.263586,
+      46.043627
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872798aa0ffffff"
+    ]
+  },
+  {
+    "fips": "41037",
+    "name": "Lake County",
+    "state": "OR",
+    "macro_region": "Northwest",
+    "archetype": "Intensive Agricultural / Rural Heartland",
+    "is_centroid": false,
+    "pop_2023": 8293,
+    "median_income": 54707.0,
+    "poverty_pct": 16.5,
+    "dem_margin_2020": -0.6137978455191382,
+    "swing_2012_2020": -0.06447169996657753,
+    "rucc_code": 9,
+    "bbox": [
+      -121.34988,
+      41.993058,
+      -119.360177,
+      43.616629
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8728ac376ffffff"
+    ]
+  },
+  {
+    "fips": "08103",
+    "name": "Rio Blanco County",
+    "state": "CO",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 6569,
+    "median_income": 71630.0,
+    "poverty_pct": 9.9,
+    "dem_margin_2020": -0.6773232186399349,
+    "swing_2012_2020": -0.03737071047727536,
+    "rucc_code": 9,
+    "bbox": [
+      -109.051221,
+      39.660472,
+      -107.037363,
+      40.225372
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872682042ffffff"
+    ]
+  },
+  {
+    "fips": "49051",
+    "name": "Wasatch County",
+    "state": "UT",
+    "macro_region": "Northwest",
+    "archetype": "University / Higher-Ed Innovation Hub",
+    "is_centroid": false,
+    "pop_2023": 37144,
+    "median_income": 115793.0,
+    "poverty_pct": 5.0,
+    "dem_margin_2020": -0.2621011319037598,
+    "swing_2012_2020": 0.2623539729038323,
+    "rucc_code": 4,
+    "bbox": [
+      -111.611734,
+      39.899146,
+      -110.891872,
+      40.690384
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872690cedffffff"
+    ]
+  },
+  {
+    "fips": "02150",
+    "name": "Kodiak Island Borough",
+    "state": "AK",
+    "macro_region": "Northwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 12565,
+    "median_income": 83222.0,
+    "poverty_pct": 7.5,
+    "dem_margin_2020": 0.0,
+    "swing_2012_2020": 0.0,
+    "rucc_code": 7,
+    "bbox": [
+      -156.750815,
+      55.759983,
+      -151.963817,
+      58.855797
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "870ced6c1ffffff"
+    ]
+  },
+  {
+    "fips": "16059",
+    "name": "Lemhi County",
+    "state": "ID",
+    "macro_region": "Northwest",
+    "archetype": "Rapid-Growth Exurban / Sunbelt Corridor",
+    "is_centroid": false,
+    "pop_2023": 8441,
+    "median_income": 55554.0,
+    "poverty_pct": 14.0,
+    "dem_margin_2020": -0.5403123680878008,
+    "swing_2012_2020": -0.03690604205373749,
+    "rucc_code": 9,
+    "bbox": [
+      -114.819855,
+      44.230439,
+      -112.813907,
+      45.705247
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872882584ffffff"
+    ]
+  },
+  {
+    "fips": "06013",
+    "name": "Contra Costa County",
+    "state": "CA",
+    "macro_region": "Northwest",
+    "archetype": "Mega-Urban Economic Center",
+    "is_centroid": false,
+    "pop_2023": 1155025,
+    "median_income": 119667.0,
+    "poverty_pct": 8.7,
+    "dem_margin_2020": 0.45336441684014933,
+    "swing_2012_2020": 0.1012470162295055,
+    "rucc_code": 1,
+    "bbox": [
+      -122.430087,
+      37.718629,
+      -121.536595,
+      38.094414
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "872830c76ffffff"
+    ]
+  },
+  {
+    "fips": "41057",
+    "name": "Tillamook County",
+    "state": "OR",
+    "macro_region": "Northwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 27417,
+    "median_income": 64877.0,
+    "poverty_pct": 12.0,
+    "dem_margin_2020": -0.01705352913311231,
+    "swing_2012_2020": -0.06569958712496471,
+    "rucc_code": 7,
+    "bbox": [
+      -124.017991,
+      45.043987,
+      -123.299441,
+      45.783197
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "8728f56d0ffffff"
+    ]
+  },
+  {
+    "fips": "02013",
+    "name": "Aleutians East Borough",
+    "state": "AK",
+    "macro_region": "Northwest",
+    "archetype": "Swing Bellwether / Polar Pivot County",
+    "is_centroid": false,
+    "pop_2023": 3461,
+    "median_income": 85852.0,
+    "poverty_pct": 16.2,
+    "dem_margin_2020": 0.0,
+    "swing_2012_2020": 0.0,
+    "rucc_code": 9,
+    "bbox": [
+      -166.112242,
+      54.03642,
+      -158.891034,
+      56.851184
+    ],
+    "h3_cell_count": 1,
+    "h3_sample_cells": [
+      "870cd8916ffffff"
+    ]
+  }
+]
